@@ -1,4 +1,5 @@
 # beebcubes.github.io
-under construction....
+We've moved websites!
 
-Not sure when this will be finished, or even what it is
+all future changes will be committed to notforlife.github.io/beebcubes
+this is because i didn't want my dumb name on the website for my very professional game
